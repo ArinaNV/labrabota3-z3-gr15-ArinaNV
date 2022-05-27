@@ -1,0 +1,10 @@
+#makefile for main second part project
+
+Program: obj/main.o
+	gcc -o bin/Program obj/main.o
+
+obj/main.o: src/main.cpp
+	gcc -o obj/main.o -c src/main.cpp
+
+clean:
+	rm -rf obj/*.o bin/Program
