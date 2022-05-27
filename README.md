@@ -1,11 +1,24 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Описать структуру с именем WORKER, содержащую поля: фамилия, имя, отчество, должность, дата рождения, пол, дата приёма на работу.
+Написать функции:
+• создания массива не менее чем из 10 записей (структур) данных об сотрудниках (ввод данных с клавиатуры);
+• определения количества сотрудников пенсионного возраста (мужчинам больше 65-ти лет, женщинам — 58);
+• вывода результатов сортировки по полу и по алфавиту;
+• вывода сведений о самом молодом сотруднике.
+• вывода количества сотрудников каждого пола.
+Все необходимые данные для функций должны передаваться в качестве их параметров. Использование глобальных параметров не допускается. Создать проект, который демонстрирует работу всех функций. 
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Arina Novik 15 gr
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+main
+
+# Additional Notes
+
+https://github.com/ArinaNV/lab3-task1-gr15-novik
+https://github.com/ArinaNV/hello-github-actions
+
